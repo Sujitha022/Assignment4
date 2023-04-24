@@ -1,0 +1,49 @@
+.container {
+    width: 1500px;
+    margin: auto;
+    padding: 30px;
+
+}
+.body{
+    background-color: aliceblue;
+}
+
+.row {
+    display: flex;
+    width:auto;
+   }
+   .row2 {
+    display: flex;
+    width:auto;
+    margin-left: 30%;
+   
+   }
+.images{
+    margin-left: 30%;
+   display: flex;
+    width:30%;
+
+ }
+
+.images img{
+    padding-right:100px ;
+}
+.text{
+    width: 30%;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: rgb(7, 7, 107);
+}
+.text2{
+    width: 30%;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: rgb(7, 7, 107);
+    margin-left: 40px;
+}
+.text p{
+    width:80%;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.text2 p{
+    width:80%;
+    font-family: 'Nanum Gothic', sans-serif;
+}
